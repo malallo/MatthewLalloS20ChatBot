@@ -1,7 +1,5 @@
 import http.server
 import socketserver
-from google_search import chatbot_query
-from google_search import greeting
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 import os
